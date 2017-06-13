@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GCC_VERSION=4.9
+GCC_VERSION=5
 
 export PATH="$HOME/vendor/R/bin:$HOME/.apt/usr/bin:$HOME/.apt/usr/sbin:$PATH"
 export LIBRARY_PATH="$HOME/.apt/usr/lib/x86_64-linux-gnu:$HOME/.apt/usr/lib:/usr/lib/x86_64-linux-gnu:/usr/lib:$LIBRARY_PATH"
